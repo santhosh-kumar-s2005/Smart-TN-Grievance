@@ -65,4 +65,4 @@ https://vercel.com/new
 
 ## 🤝 Contribution
 
-Minor README improvement contributed by **Sharlyn Bernice**.
+New improved README line
