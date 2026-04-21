@@ -1,6 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Smart TN Grievance System
 
-## Getting Started
+This is a web application built using **Next.js** to manage and streamline grievance handling in Tamil Nadu.
+
+---
+
+## 🚀 Getting Started
 
 First, run the development server:
 
@@ -14,27 +18,51 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then open:
+http://localhost:3000
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You will see the application running in your browser.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🛠️ Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+* Next.js
+* TypeScript
+* React
+* Tailwind CSS (if used)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## ✏️ Development
 
-## Deploy on Vercel
+You can start editing the main page by modifying:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```
+app/page.tsx
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+The page auto-updates as you save changes.
 
-## Contribution
+---
 
-This repository was forked and a minor README improvement was added.
+## 📚 Learn More
+
+To learn more about Next.js:
+
+* https://nextjs.org/docs
+* https://nextjs.org/learn
+
+---
+
+## 🚀 Deployment
+
+The easiest way to deploy this project is using Vercel:
+
+https://vercel.com/new
+
+---
+
+## 🤝 Contribution
+
+New improved README line
